@@ -56,3 +56,21 @@ Mata Kuliah: Pemograman Web 1 <p>
     - Edit (Hijau): Digunakan untuk           operasi UPDATE                         `(mengubah/memperbarui detail            pengguna)`
     - Delete `(Merah)`: Digunakan untuk       operasi DELETE `(menghapus data         pengguna dari sistem)`.
 
+### halaman tambah user 
+- Halaman ini adalah Form Input User `(dengan Oop Routing)` yang berfungsi untuk menjalankan operasi CREATE `(menambah data)` pada modul pengguna. Halaman ini digunakan untuk mendaftarkan pengguna baru ke dalam sistem.
+- Komponen Utama `(Form Input)`
+  - ID `(Internal)`
+  - Nama Lengkap
+  - Password `(Sandi)`
+  - Jenis Kelamin
+  - Agama
+  - Hobi
+  - Alamat Lengkap
+- Navigasi & Aksi
+  - "← Kembali ke Daftar": Tautan untuk     membatalkan proses dan kembali ke       halaman Daftar User.
+  - Tombol "Simpan User": Tombol aksi       utama. Jika diklik, data yang           diinput akan diproses dan disimpan.
+
+### kesimpulan 
+- Ini adalah framework sederhana berbasis PHP Object-Oriented Programming '(OOP)' & `(CRUD)` yaitu Create, Read, Update & Delete
+
+
