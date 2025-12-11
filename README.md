@@ -25,4 +25,5 @@ Mata Kuliah: Pemograman Web 1 <p>
      - TANGGAL: Tanggal artikel                tersebut dibuat atau diperbarui.
      - AKSI: Kolom ini berisi tombol-          tombol untuk mengelola artikel          per barisnya:
          - Edit (Hijau): Digunakan                 untuk operasi UPDATE                    '(mengubah/memperbarui data             artikel)'.
+         - Delete (Merah): Digunakan               untuk operasi DELETE                    `(menghapus data artikel)`.
 
