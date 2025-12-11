@@ -71,6 +71,6 @@ Mata Kuliah: Pemograman Web 1 <p>
   - Tombol "Simpan User": Tombol aksi       utama. Jika diklik, data yang           diinput akan diproses dan disimpan.
 
 ### kesimpulan 
-- Ini adalah framework sederhana berbasis PHP Object-Oriented Programming '(OOP)' & `(CRUD)` yaitu Create, Read, Update & Delete
+- Ini adalah framework sederhana berbasis PHP Object-Oriented Programming `(OOP)` & `(CRUD)` yaitu Create, Read, Update & Delete
 
 
