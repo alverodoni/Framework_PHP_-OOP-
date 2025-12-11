@@ -61,8 +61,7 @@ Mata Kuliah: Pemograman Web 1 <p>
     - Delete `(Merah)`: Digunakan untuk       operasi DELETE `(menghapus data         pengguna dari sistem)`.
 
 ### halaman tambah user
-<img width="1918" height="973" alt="halaman tambah user " src="https://github.com/user-attachments/assets/90ba5d57-9d57-4e97-804d-d21bb9a630b5" />
-- Halaman ini adalah Form Input User `(dengan Oop Routing)` yang berfungsi untuk menjalankan operasi CREATE `(menambah data)` pada modul pengguna. Halaman ini digunakan untuk mendaftarkan pengguna baru ke dalam sistem.
+- Halaman ini adalah Form Input User `(dengan Oop Routing)` yang berfungsi untuk menjalankan operasi CREATE `(menambah data)` pada modul pengguna. Halaman ini digunakan untuk mendaftarkan pengguna baru ke dalam    sistem.
 - Komponen Utama `(Form Input)`
   - ID `(Internal)`
   - Nama Lengkap
