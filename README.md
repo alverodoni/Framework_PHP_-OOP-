@@ -73,16 +73,15 @@ Mata Kuliah: Pemograman Web 1 <p>
 ### kesimpulan 
 - Ini adalah framework sederhana berbasis PHP Object-Oriented Programming `(OOP)` & `(CRUD)` yaitu Create, Read, Update & Delete
 
-### Image
-- Halaman home 
+### Image Halaman home 
 <img width="1918" height="970" alt="halaman home" src="https://github.com/user-attachments/assets/fc874872-75ee-4bb3-98c3-eeeed0468676" />
-- Halaman artikel
+### Image Halaman artikel 
 <img width="1918" height="971" alt="halaman artikel " src="https://github.com/user-attachments/assets/e2b30c71-3a03-441f-92b5-5e6926323bfd" />
-- Halaman tambah artikel
+### Image Halaman tambah artikel
 <img width="1918" height="973" alt="halaman tambah artikel " src="https://github.com/user-attachments/assets/46cacf5c-032c-4c95-990c-060d90a3157f" />
-- Halaman user 
+### Image Halaman user 
 <img width="1918" height="972" alt="halaman user " src="https://github.com/user-attachments/assets/cab702bd-31cc-4264-bc0b-02c7ae94fb82" />
-- Halaman tambah user 
+### Image Halaman tambah user  
 <img width="1918" height="973" alt="halaman tambah user " src="https://github.com/user-attachments/assets/8475c657-6115-4eb8-af3d-b13861c65c59" />
 
 ### codingan keseluruhan 
