@@ -24,6 +24,17 @@ Mata Kuliah: Pemograman Web 1 <p>
      - ISI: ringkasan singkat dari             konten artikel.
      - TANGGAL: Tanggal artikel                tersebut dibuat atau diperbarui.
      - AKSI: Kolom ini berisi tombol-          tombol untuk mengelola artikel          per barisnya:
-         - Edit (Hijau): Digunakan                 untuk operasi UPDATE                    '(mengubah/memperbarui data             artikel)'.
+         - Edit (Hijau): Digunakan                 untuk operasi UPDATE                    `(mengubah/memperbarui data             artikel)`.
          - Delete (Merah): Digunakan               untuk operasi DELETE                    `(menghapus data artikel)`.
+
+### halaman tambah artikel
+- Halaman ini adalah form yang digunakan untuk menjalankan operasi CREATE `(membuat/menambah data baru)` dalam modul Artikel. Tujuannya adalah mengumpulkan informasi yang diperlukan untuk menyimpan satu entri artikel baru ke dalam database.
+- Komponen Utama
+  - ID `(Internal)`
+  - Judul Artikel
+  - Tanggal
+  - Isi Artikel
+- Navigasi & Aksi
+  - "← Kembali ke Daftar": Tautan ini       memungkinkan pengguna kembali ke        halaman Daftar Artikel tanpa            menyimpan data yang sedang diinput.
+  - Tombol "Simpan Artikel": Tombol         aksi utama. Jika diklik, sistem         akan mencoba menyimpan data yang        telah diinput ke dalam database         kemudian datanya kesimpan ke            halaman artikel yaitu ditabel           artikel
 
