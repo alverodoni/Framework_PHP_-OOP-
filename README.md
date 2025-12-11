@@ -42,7 +42,6 @@ Mata Kuliah: Pemograman Web 1 <p>
   - Tombol "Simpan Artikel": Tombol aksi utama. Jika diklik, sistem akan mencoba menyimpan data yang telah diinput ke dalam database kemudian datanya kesimpan ke halaman artikel yaitu ditabel artikel
 
 ### halaman user 
-<img width="1918" height="972" alt="halaman user " src="https://github.com/user-attachments/assets/644e7a3e-abe8-45a1-8020-532ef6d9b7f0" />
 - Halaman ini adalah Data Pengguna `(User)`, dan berfungsi untuk menampilkan daftar semua pengguna yang terdaftar dalam sistem. Seperti halaman Artikel, halaman ini mewakili operasi READ dari fungsi CRUD.
 - Tampilan Utama
   - Halaman ini menampilkan semua data pengguna dalam format tabel yang terstruktur.
