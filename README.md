@@ -6,7 +6,6 @@ Jurusan: Teknik Informatika <p>
 Mata Kuliah: Pemograman Web 1 <p>
 
 ### halaman home 
-<img width="1918" height="970" alt="halaman home" src="https://github.com/user-attachments/assets/a125da33-7cc1-4b65-9f2e-c51104ac9ddd" />
 - Halaman home adalah halaman sambutan  dari sebuah Framework PHP OOP sederhana. Halaman ini berfungsi sebagai pengantar dan perkenalan fitur utama dari framework yang dibuat.
 - Cara Menggunakannya dengan diarahkan untuk menggunakan menu navigasi di atas `(Artikel dan User)` untuk mencoba fitur CRUD `(mengelola data artikel atau pengguna)`.
 - Judul Utama Aplikasi: "Framework PHP OOP - Praktikum 11". `(header)`
@@ -14,7 +13,6 @@ Mata Kuliah: Pemograman Web 1 <p>
 - "© 2024 Framework PHP OOP - Praktikum 11 | Universitas Pelita Bangsa". `(footer)` & Menyediakan informasi branding juga hak cipta.
 
 ### halaman artikel 
-<img width="1918" height="971" alt="halaman artikel " src="https://github.com/user-attachments/assets/8ffa42f7-a392-4bf2-988b-3cbbc88b18ea" />
 - Halaman ini adalah implementasi dari fungsi READ dalam operasi CRUD `(Create, Read, Update, Delete)`. Tujuannya adalah untuk menampilkan semua data artikel yang tersimpan dalam database dan menyediakan akses untuk mengelola data tersebut.
   1. Tampilan Utama
      Halaman ini menampilkan semua artikel dalam format tabel agar mudah dibaca dan diorganisir.
@@ -75,6 +73,11 @@ Mata Kuliah: Pemograman Web 1 <p>
 
 ### kesimpulan 
 - Ini adalah framework sederhana berbasis PHP Object-Oriented Programming `(OOP)` & `(CRUD)` yaitu Create, Read, Update & Delete
+
+### Image
+- Halaman home 
+<img width="1918" height="970" alt="halaman home" src="https://github.com/user-attachments/assets/fc874872-75ee-4bb3-98c3-eeeed0468676" />
+
 
 ### codingan keseluruhan 
 ```php
