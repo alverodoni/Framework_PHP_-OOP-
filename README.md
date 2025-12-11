@@ -38,3 +38,21 @@ Mata Kuliah: Pemograman Web 1 <p>
   - "← Kembali ke Daftar": Tautan ini       memungkinkan pengguna kembali ke        halaman Daftar Artikel tanpa            menyimpan data yang sedang diinput.
   - Tombol "Simpan Artikel": Tombol         aksi utama. Jika diklik, sistem         akan mencoba menyimpan data yang        telah diinput ke dalam database         kemudian datanya kesimpan ke            halaman artikel yaitu ditabel           artikel
 
+### halaman user 
+- Halaman ini adalah Data Pengguna `(User)`, dan berfungsi untuk menampilkan daftar semua pengguna yang terdaftar dalam sistem. Seperti halaman Artikel, halaman ini mewakili operasi READ dari fungsi CRUD.
+- Tampilan Utama
+  - Halaman ini menampilkan semua data      pengguna dalam format tabel yang        terstruktur.
+- Fitur Utama `(Tombol)`
+  - Tombol "Tambah User Baru": Tombol       ini digunakan untuk menjalankan         operasi CREATE `(membuat data           baru)`. Jika diklik, pengguna akan      diarahkan ke halaman form untuk         menginput detail pengguna baru.
+- Struktur Tabel `(Data Pengguna)`
+  - NO: Nomor urut pengguna.
+  - NAMA: Nama lengkap pengguna.
+  - EMAIL: Alamat email pengguna.
+  - JENIS KELAMIN: Jenis kelamin            pengguna `(Laki-laki/Perempuan)`.
+  - AGAMA: Informasi agama pengguna.
+  - HOBY: Informasi hobi pengguna.
+  - ALAMAT: Alamat fisik pengguna.
+  - AKSI: Kolom ini berisi tombol-          tombol untuk mengelola data             pengguna per barisnya:
+    - Edit (Hijau): Digunakan untuk           operasi UPDATE                         `(mengubah/memperbarui detail            pengguna)`
+    - Delete `(Merah)`: Digunakan untuk       operasi DELETE `(menghapus data         pengguna dari sistem)`.
+
