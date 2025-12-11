@@ -16,4 +16,13 @@ Mata Kuliah: Pemograman Web 1 <p>
 - Halaman ini adalah implementasi dari fungsi READ dalam operasi CRUD `(Create, Read, Update, Delete)`. Tujuannya adalah untuk menampilkan semua data artikel yang tersimpan dalam database dan menyediakan akses untuk mengelola data tersebut.
   1. Tampilan Utama
      Halaman ini menampilkan semua           artikel dalam format tabel agar         mudah dibaca dan diorganisir.
+  2. Fitur Utama `(Tombol)`
+     Tombol "Tambah Artikel Baru":           Tombol ini digunakan untuk              menjalankan operasi CREATE             `(membuat data baru)`. Jika diklik,      pengguna akan diarahkan ke halaman      form untuk menginput data artikel       baru.
+  3. Struktur Tabel
+     - NO: Nomor urut artikel (biasanya        dihitung dari baris).
+     - JUDUL: Judul utama dari artikel.
+     - ISI: ringkasan singkat dari             konten artikel.
+     - TANGGAL: Tanggal artikel                tersebut dibuat atau diperbarui.
+     - AKSI: Kolom ini berisi tombol-          tombol untuk mengelola artikel          per barisnya:
+         - Edit (Hijau): Digunakan                 untuk operasi UPDATE                    '(mengubah/memperbarui data             artikel)'.
 
