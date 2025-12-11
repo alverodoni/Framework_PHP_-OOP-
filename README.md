@@ -80,8 +80,8 @@ Mata Kuliah: Pemograman Web 1 <p>
 
 <img width="1918" height="973" alt="halaman tambah artikel " src="https://github.com/user-attachments/assets/46cacf5c-032c-4c95-990c-060d90a3157f" />
 
-<img width="1918" height="972" alt="halaman user " src="https://github.com/user-attachments/assets/cab702bd-31cc-4264-bc0b-02c7ae94fb82" />
- 
+<img width="1919" height="970" alt="Screenshot 2025-12-10 173154" src="https://github.com/user-attachments/assets/beb5719a-037b-44f4-89c2-8240570aef2b" />
+
 <img width="1918" height="973" alt="halaman tambah user " src="https://github.com/user-attachments/assets/8475c657-6115-4eb8-af3d-b13861c65c59" />
 
 ### codingan keseluruhan 
